@@ -30,4 +30,7 @@ public class User {
 		return "name: " + this.name + " age: " + this.age;
 	}
 
+	public String run(){
+		return "I'm running ...";
+	}
 }
