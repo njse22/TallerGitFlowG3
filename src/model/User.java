@@ -31,7 +31,7 @@ public class User {
 	}
 
 	public String run(){
-		return "Another run method ...";
+		return "I'm running ...";
 	}
 
 }
