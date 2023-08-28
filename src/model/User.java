@@ -27,6 +27,7 @@ public class User {
 	}
 
 	public String toString(){
-		return "hola";
+		return "name: " + this.name + " age: " + this.age;
 	}
+
 }
