@@ -30,4 +30,8 @@ public class User {
 		return "name: " + this.name + " age: " + this.age;
 	}
 
+	public String sayHello(){
+		return "Hola"; 
+	}
+
 }
